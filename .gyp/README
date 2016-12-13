@@ -1,0 +1,10 @@
+Copyright (c) 2016 The Chromic Authors. All rights reserved.
+ 
+This is for providing Google API keys at build time.
+include.gypi's path must be outside of chromium os's chroot.
+for example, ~/.gyp/include.gypi
+If you make it successfully, you can see message when you entering cros_sdk.
+And you could see ~/.googleapikeys in chroot (after enter cros_sdk)
+
+http://www.chromium.org/chromium-os/how-tos-and-troubleshooting/building-chromium-browser/chrome-api-keys-in-the-chroot
+http://www.chromium.org/developers/how-tos/api-keys
