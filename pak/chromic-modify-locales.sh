@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Copyright (c) 2016 The Chromic Authors. All rights reserved.
-# This script could help to modify name(chromebook, chrome, chromium) to chromic
+# This script could helps to modify the names(chromebook, chrome, chromium) to chromic
 
 # Chromium----------------------------------------------------------------------------------------------------------------------------------------------------------
 # Don't modify automatically {29556,27854,11522,11520}. These are about Chromium licenses.
